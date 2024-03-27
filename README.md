@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin Kallish! <br/><a href="https://github.com/joshmadakor1<a href="https://www.linkedin.com/in/kevinkallish9999/"> A Cybersecurity Professional</a>
+<h1>Welcome, I'm Kevin. I'm glad you're here! <br/><a href="https://github.com/joshmadakor1<a href="https://www.linkedin.com/in/kevinkallish9999/"> Cybersecurity Professional</a>
 <h2> 👨🏻‍🎓 Education:</h2>  
  -<b>Bachelor or Science in Poltical Science, Arizona State University 🔱<b>
  
