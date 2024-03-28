@@ -2,7 +2,7 @@
 
  ## My Goal:
 
-My intrest in cyber warfare has led me to develop a passion for cybersecurity, and I am now eager to work in the field. My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+After learning about cyber warfare in my undergraduate courses at Arizona State University, I am now eager to work in cybersecurity. My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 <h2>👨🏻‍🎓 Education:</h2>  
  - <b>Bachelor of Science in Poltical Science, Arizona State University 🔱<b>
 
