@@ -1,4 +1,4 @@
-<h1>Welcome, I'm Kevin. I'm glad you're here! <br/><a href="https://www.linkedin.com/in/kevinkallish9999/"> Cybersecurity Professional</a>
+<h1>Welcome, I'm Kevin. I'm glad you're here! <br/><a href="https://www.linkedin.com/in/kevinkallish9999/"> I am a Cybersecurity Professional</a>
 
  ## My Goal:
 
