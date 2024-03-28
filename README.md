@@ -1,6 +1,6 @@
-<h1>Welcome, I'm Kevin. I'm glad you're here! <br/><a href="https://github.com/joshmadakor1<a href="https://www.linkedin.com/in/kevinkallish9999/"> Cybersecurity Professional</a>
+<h1>Welcome, I'm Kevin. I'm glad you're here! <br/><a href="https://www.linkedin.com/in/kevinkallish9999/"> Cybersecurity Professional</a>
 
- ## Objective
+ ## My Goal:
 
 My intrest in cyber warfare has led me to develop a passion for cybersecurity, and I am now eager to work in the field. My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 <h2>👨🏻‍🎓 Education:</h2>  
@@ -31,17 +31,4 @@ My intrest in cyber warfare has led me to develop a passion for cybersecurity, a
   
  https://www.linkedin.com/in/kevinkallish9999/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
