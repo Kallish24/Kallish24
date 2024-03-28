@@ -1,4 +1,8 @@
 <h1>Welcome, I'm Kevin. I'm glad you're here! <br/><a href="https://github.com/joshmadakor1<a href="https://www.linkedin.com/in/kevinkallish9999/"> Cybersecurity Professional</a>
+
+ ## Objective
+
+My intrest in cyber warfare has led me to develop a passion for cybersecurity, and I am now eager to work in the field. My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 <h2>👨🏻‍🎓 Education:</h2>  
  - <b>Bachelor of Science in Poltical Science, Arizona State University 🔱<b>
 
