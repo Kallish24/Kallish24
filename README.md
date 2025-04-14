@@ -5,6 +5,7 @@
 After learning about cyber warfare in my undergraduate courses at Arizona State University, I am now eager to work in cybersecurity. My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 <h2>👨🏻‍🎓 Education:</h2>  
  - <b>Bachelor of Science in Poltical Science, Arizona State University 🔱<b>
+ 
  - <b>Masters of Arts in Global Security (Cybersecurity), Arizona State University 🔱<b>
  <h2>📚 Certifications:</h2>
 <div>
