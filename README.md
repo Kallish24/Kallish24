@@ -2,7 +2,7 @@
 
  ## My Goal:
 
-After learning about cyber warfare in my undergraduate courses at Arizona State University, I am now eager to work in cybersecurity. My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Cybersecurity professional with a strong foundation in desktop support, CompTIA Security+ certified, and experienced in network security, threat mitigation, and compliance. Currently pursuing an MA in Global Security (Cybersecurity) to advance skills in cyber threat analysis and defense strategy.
 <h2>👨🏻‍🎓 Education:</h2>  
   <b>Masters of Arts in Global Security (Cybersecurity), Arizona State University<b>
   
