@@ -7,7 +7,7 @@ After learning about cyber warfare in my undergraduate courses at Arizona State 
  - <b>Bachelor of Science in Poltical Science, Arizona State University 🔱<b>
  
  
-- <b>Masters of Arts in Global Security (Cybersecurity), Arizona State University 🔱<b>
+-  <b>Masters of Arts in Global Security (Cybersecurity), Arizona State University 🔱<b>
  <h2>📚 Certifications:</h2>
 <div>
 <a href="https://www.credly.com/badges/1a4ec108-110a-4e7a-843e-c9252c27dd7e/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white">
